@@ -12,3 +12,4 @@ app = Flask(__name__)
 #
 # db = SQLAlchemy(app)
 # Migrate(app, db)
+
